@@ -1,4 +1,4 @@
-# Vagrant
+# Docker
 
 Criação de dois containers docker. Um usando a `imagem do MySQL` e outro com a `imagem do nginx` 
 (servido na porta 80 da máquina host). A network criada usa o driver `bridge` o que permite a comunicação entre os dois containers.
